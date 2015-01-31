@@ -3,6 +3,7 @@ body {
 	background-color: #eeeeee;
 	color:#494949;
 	font-family: Helvetica;
+	font-weight: 100;
 }
 
 h1 {
@@ -18,7 +19,7 @@ h3 {
 #studio {
 	background: rgba(255,255,255,.5);
 	width: 250px;
-	height: 350px;
+	height: 400px;
 	border: 1px white;
 	display: inline-block;
 	margin: 20px;
@@ -30,7 +31,7 @@ h3 {
 #classes {
 	background: rgba(255,255,255,.5);
 	width: 250px;
-	height: 350px;
+	height: 400px;
 	border: 1px white;
 	display: inline-block;
 	margin: 20px;
@@ -41,7 +42,7 @@ h3 {
 #contact {
 	background: rgba(255,255,255,.5);
 	width: 250px;
-	height: 350px;
+	height: 400px;
 	border: 1px white;
 	display: inline-block;
 	margin: 20px;
