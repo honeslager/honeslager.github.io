@@ -6,21 +6,23 @@ body {
 }
 
 h1 {
-	font-size: 22px
+	font-size: 30px
 }
 
 h3 {
-	font-size: 18px
+	font-size: 22px
 }
 p{
-	font-size: 12px
+	font-size: 18px
 }
 
-div {
+div .section {
 	background: rgba(255,255,255,.8);
 	width: 250px;
 	height: 350px;
 	border: 0px;
 	display: block;
 	margin: 20px;
+	font-size: 16px;
+	font-family: Helvetica;
 }
