@@ -54,6 +54,7 @@ h3 {
 }
 #about {
 	background: none;
-	width: 600px;
+	width: 800px;
 	border: none;
+	display: inline-block;
 }
