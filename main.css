@@ -8,6 +8,6 @@ div {
 	width: 250px;
 	height: 350px;
 	border: 0px;
-	display: inline-block;
+	display: block;
 	margin: 20px;
 }
