@@ -16,9 +16,27 @@ p{
 	font-size: 18px
 }
 
-div .section {
-	margin-left: auto;
-    margin-right: auto;
+div #class {
+	background: rgba(255,255,255,.8);
+	width: 250px;
+	height: 350px;
+	border: 0px;
+	display: block;
+	margin: 20px;
+	font-size: 16px;
+	font-family: Helvetica;
+}
+div #studio {
+	background: rgba(255,255,255,.8);
+	width: 250px;
+	height: 350px;
+	border: 0px;
+	display: block;
+	margin: 20px;
+	font-size: 16px;
+	font-family: Helvetica;
+}
+div #contact {
 	background: rgba(255,255,255,.8);
 	width: 250px;
 	height: 350px;
