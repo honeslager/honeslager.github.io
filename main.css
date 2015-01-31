@@ -1,6 +1,19 @@
 body {
-	background-color: gray;
-	color:purple;
+	text-align: center;
+	background-color: #eeeeee;
+	color:#494949;
+	font-family: Helvetica;
+}
+
+h1 {
+	font-size: 22px
+}
+
+h3 {
+	font-size: 18px
+}
+p{
+	font-size: 12px
 }
 
 div {
