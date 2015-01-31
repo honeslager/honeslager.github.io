@@ -8,12 +8,12 @@ body {
 
 h1 {
 	font-size: 30px;
-	font-weight: normal;
+	font-weight: 100;
 }
 
 h3 {
 	font-size: 22px;
-	font-weight: normal;
+	font-weight: 100;
 }
 
 #studio {
@@ -26,6 +26,7 @@ h3 {
 	font-size: 16px;
 	font-family: Helvetica;
 	font-weight: 100;
+	
 }
 
 #classes {
@@ -38,6 +39,7 @@ h3 {
 	font-size: 16px;
 	font-family: Helvetica;
 	font-weight: 100;
+
 }
 #contact {
 	background: rgba(255,255,255,.5);
@@ -49,4 +51,9 @@ h3 {
 	font-size: 16px;
 	font-family: Helvetica;
 	font-weight: 100;
+}
+#about {
+	background: none;
+	width: 600px;
+	border: none;
 }
