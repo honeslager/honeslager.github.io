@@ -6,43 +6,51 @@ body {
 }
 
 h1 {
-	font-size: 30px
+	font-size: 30px;
+	font-weight: normal;
 }
 
 h3 {
-	font-size: 22px
+	font-size: 22px;
+	font-weight: normal;
 }
-p{
-	font-size: 18px
+
+.slogan {
+	font-style: italic;
+}
+
 }
 
 #class {
-	background: rgba(255,255,255,.8);
+	background: rgba(255,255,255,.5);
 	width: 250px;
 	height: 350px;
-	border: 0px;
-	display: block;
+	border: 1px white;
+	display: inline-block;
 	margin: 20px;
 	font-size: 16px;
 	font-family: Helvetica;
+	font-weight: normal;
 }
 #studio {
-	background: rgba(255,255,255,.8);
+	background: rgba(255,255,255,.5);
 	width: 250px;
 	height: 350px;
-	border: 0px;
-	display: block;
+	border: 1px white;
+	display: inline-block;
 	margin: 20px;
 	font-size: 16px;
 	font-family: Helvetica;
+	font-weight: normal;
 }
 #contact {
-	background: rgba(255,255,255,.8);
+	background: rgba(255,255,255,.5);
 	width: 250px;
 	height: 350px;
-	border: 0px;
-	display: block;
+	border: 1px white;
+	display: inline-block;
 	margin: 20px;
 	font-size: 16px;
 	font-family: Helvetica;
+	font-weight: normal;
 }
