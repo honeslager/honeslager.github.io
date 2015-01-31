@@ -2,3 +2,12 @@ body {
 	background-color: gray;
 	color:purple;
 }
+
+div {
+	background: rgba(255,255,255,.8);
+	width: 250px;
+	height: 350px;
+	border: 0px;
+	display: inline-block;
+	margin: 20px;
+}
