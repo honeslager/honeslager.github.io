@@ -16,6 +16,10 @@ h3 {
 	font-weight: 100;
 }
 
+li {
+	text-align: left
+}
+
 #slogan {
 	font-style: italic;
 	font-size: 22px;
