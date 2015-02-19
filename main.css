@@ -23,10 +23,6 @@ h3 {
 	font-weight: lighter;
 }
 
-li {
-	list-style-position: inside;
-}
-
 #slogan {
 	font-style: italic;
 	font-size: 1.5em;
@@ -63,4 +59,11 @@ nav {
 	text-decoration:none;
 	font-weight:100;
 	padding:1.5em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 1em;
+    padding: 1.5em;
+    display:inline;
 }
