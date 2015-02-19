@@ -7,11 +7,12 @@ body {
 }
 
 h1 {
+	font-family: 'Patua One', cursive;
 	font-size: 30px;
-	font-weight: 100;
 }
 
 h3 {
+	font-family: Helvetica;
 	font-size: 22px;
 	font-weight: 100;
 }
