@@ -8,13 +8,16 @@ body {
 }
 main {
 	max-width:75em;
+	margin:0 auto;
 }
 h1 {
+	text-align:center;
 	font-family: 'Patua One', cursive;
 	font-size: 2em;
 }
 
 h3 {
+	text-align:center;
 	font-family: 'Patua One', cursive;
 	font-size: 1.5em;
 	font-weight: lighter;
@@ -28,14 +31,19 @@ li {
 	font-style: italic;
 	font-size: 1.5em;
 }
+.logo {
+	display:block;
+	margin:0 auto;
+	width:15em;
+}
 .columns {
 	background:rgba(255,255,255,.5);
 	border:1px solid #fff;
 	float:left;
-	padding:0 2em;
+	padding:2em;
 	width:33.33%;
 }
 .columns img {
 	width:100%;
 }
-}
+
