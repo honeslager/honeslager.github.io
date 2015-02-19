@@ -1,6 +1,5 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
-	background-color: #eeeeee;
 	color:#494949;
 	font-family: Helvetica, arial, sans-serif;
 	font-weight: lighter;
@@ -47,3 +46,13 @@ li {
 	width:100%;
 }
 
+nav {
+	float: left;
+	display: block;
+	font-family: Helvetica, Arial, sans-serif;
+	padding: 3em;
+	margin:0 auto;
+	width: 100%;
+	background:rgba(255,255,255,.5);
+	font-size:2em;
+}
