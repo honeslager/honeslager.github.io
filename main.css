@@ -34,7 +34,7 @@ li {
 .logo {
 	display:inline;
 	margin:0 auto;
-	width:8em;
+	width:6em;
 }
 .columns {
 	background:rgba(255,255,255,.5);
@@ -48,8 +48,7 @@ li {
 }
 
 nav {
-	float: left;
-	display: block;
+	display: inline;
 	font-family: Helvetica, Arial, sans-serif;
 	padding: 3em;
 	margin:0 auto;
