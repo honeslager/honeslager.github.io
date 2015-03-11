@@ -57,7 +57,7 @@ nav {
 	margin:0 auto;
 	width: 100%;
 	background:rgba(255,255,255,.5);
-	font-size:2em;
+	font-size:1.5em;
 	text-decoration:none;
 	font-weight:lighter;
 	
@@ -84,6 +84,6 @@ a .navigation {
 li {
     list-style-type: none;
     margin:auto;
-    padding: 1em;
+    padding: 2em;
     display: inline;
 }
