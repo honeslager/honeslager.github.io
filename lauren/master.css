@@ -3,7 +3,7 @@ body {
 	color:#494949;
 	font-family: Helvetica, arial, sans-serif;
 	font-weight: lighter;
-	font-size:16px;
+	font-size:22px;
 }
 main {
 	max-width:75em;
@@ -13,6 +13,12 @@ h1 {
 	text-align:center;
 	font-family: 'Patua One', cursive;
 	font-size: 2em;
+}
+
+h2 {
+	text-align:center;
+	font-family: 'Patua One', cursive;
+	font-size: 1.5em;
 }
 
 h3 {
@@ -32,11 +38,12 @@ h3 {
 	border:1px solid #fff;
 	float:left;
 	padding:2em;
-	width:50%;
+	width:45%;
 }
 #adopt img {
 	width:50%;
 	display: inline;
+	padding: 1em;
 }
 
 #support img {
