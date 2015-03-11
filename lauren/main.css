@@ -23,11 +23,7 @@ h3 {
 	font-weight: lighter;
 }
 
-#slogan {
-	font-style: italic;
-	font-size: 1.5em;
-}
-.logo {
+.slide {
 	display:inline;
 	margin:0 auto;
 	width:6em;
