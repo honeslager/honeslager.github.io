@@ -15,6 +15,12 @@ h1 {
 	font-size: 2em;
 }
 
+h2 {
+	text-align:center;
+	font-family: 'Patua One', cursive;
+	font-size: 1.5em;
+}
+
 h3 {
 	text-align:center;
 	font-family: 'Patua One', cursive;
@@ -32,10 +38,10 @@ h3 {
 	border:1px solid #fff;
 	float:left;
 	padding:2em;
-	width:50%;
+	width:45%;
 }
 .columns img {
-	width:100%;
+	width:50%;
 }
 
 nav {
@@ -64,12 +70,3 @@ li {
     display: inline;
 }
 
-img.bg {
-  min-height: 100%;
-  min-width: 1024px;
-  width: 100%;
-  height: auto;
-  position: fixed;
-  top: 0;
-  left: 0;
-}
