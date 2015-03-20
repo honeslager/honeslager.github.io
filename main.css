@@ -1,5 +1,6 @@
 *{margin:0;padding:0;box-sizing:border-box;}
-body {
+
+html { 
 	background-image: url("Images/yogaslide.jpg");
 	background-repeat: no-repeat;
 	background-position: fixed; 
@@ -9,7 +10,9 @@ body {
 	
 	width:100%; 
 	height:auto;
-	
+}
+
+body {
 	color:#494949;
 	font-family: Helvetica, arial, sans-serif;
 	font-weight: lighter;
