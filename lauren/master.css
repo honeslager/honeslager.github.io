@@ -67,7 +67,7 @@ nav {
 	font-size:2em;
 	font-weight: 100;
 	display: block;
-	float: none;
+	float: left;
 	padding: 30px;
 	background-color:#C0C0C0;
 	}
