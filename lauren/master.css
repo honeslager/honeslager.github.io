@@ -16,6 +16,7 @@ h1 {
 	font-family: 'Glegoo', serif;
 	font-size: 2em;
 	font-weight:700;
+	clear:both;
 }
 
 h2 {
@@ -71,11 +72,11 @@ nav {
 	background-color:#C0C0C0;
 	}
 
-.clearfix:after{
+.clearfix:after {
 	visibility: hidden;
 	display: block;
 	content; " ":
-	clear: both;
+	clear:both;
 	height: 0;
 	font-size:0;
 }
