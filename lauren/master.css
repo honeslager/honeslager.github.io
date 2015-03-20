@@ -56,7 +56,6 @@ h3 {
 
 nav {
 	font-family: Helvetica, Arial, sans-serif;
-	width: 100%;
 	background:#282828;
 }
 
@@ -66,7 +65,7 @@ a .navigation {
 	font-weight: 100;
 	display: block;
 	float: left;
-	padding: 5em;
+	padding: 30px;
 	background:#C0C0C0;
 	}
 
