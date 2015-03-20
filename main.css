@@ -2,7 +2,7 @@
 body {
 	background-image: url("Images/yogaslide.jpg");
 	background-repeat: no-repeat;
-	background-position: fixed;
+	background-position: fixed; width:100%;
 	color:#494949;
 	font-family: Helvetica, arial, sans-serif;
 	font-weight: lighter;
