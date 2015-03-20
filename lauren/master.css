@@ -70,6 +70,7 @@ nav {
 	float: left;
 	padding: 40px;
 	background-color:#C0C0C0;
+	width: 100%;
 	}
 
 .clearfix:after {
