@@ -55,18 +55,29 @@ h3 {
 }
 
 nav {
-	float:center;
-	display: inline;
 	font-family: Helvetica, Arial, sans-serif;
-	margin:0 auto;
 	width: 100%;
-	background:rgba(255,255,255,.5);
-	font-size:1.5em;
-	text-decoration:none;
-	font-weight:lighter;
-	
+	background:rgb(200,200,200);
 }
 
+	a .navigation {
+	text-decoration :none;
+	font-size:1.5em;
+	font-weight: 100;
+	display: block;
+	float: left;
+	padding: 2em;
+	background:rgb(130,130,130);
+	}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content; " ":
+	clear: both;
+	height: 0;
+	font-size:0;
+}
 a:link {
     color: #000000;
     text-decoration: none;
@@ -77,13 +88,6 @@ a:hover {
     text-decoration: none;
 }
 
-}
-a .navigation {
-	text-decoration :none;
-	font-weight: 100;
-	display: inline;
-	
-}
 
 li {
     list-style-type: none;
