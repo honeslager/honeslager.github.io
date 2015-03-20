@@ -60,6 +60,7 @@ h3 {
 nav {
 	font-family: Helvetica, Arial, sans-serif;
 	background-color:#C0C0C0;
+	width: 100%;
 }
 
 .navigation {
@@ -70,14 +71,13 @@ nav {
 	float: left;
 	padding: 40px;
 	background-color:#C0C0C0;
-	width: 100%;
 	}
 
 .clearfix:after {
 	visibility: hidden;
 	display: block;
 	content; " ":
-	clear:both;
+	clear: both;
 	height: 0;
 	font-size:0;
 }
