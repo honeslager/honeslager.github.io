@@ -60,7 +60,6 @@ h3 {
 nav {
 	font-family: Helvetica, Arial, sans-serif;
 	background-color:#C0C0C0;
-	width:100%;
 }
 
 .navigation {
@@ -81,6 +80,7 @@ nav {
 	height: 0;
 	font-size:0;
 }
+
 a:link {
     color: #000000;
     text-decoration: none;
