@@ -10,9 +10,6 @@ body {
 	background-position: fixed; 
 	background-size: cover;
 	color:#494949;
-	font-family: Helvetica, arial, sans-serif;
-	font-weight: lighter;
-	font-size:16px;
 }
 
 h1 {
@@ -35,7 +32,7 @@ nav {
 	float:right;
 	padding: 30px;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size:1.5em;
+	font-size:1em;
 	font-weight:100;
 	
 	
@@ -47,7 +44,7 @@ nav {
 	height: 6em;
 	width: 6em;
 	clear:both;
-	padding: 10px;
+	padding: 0,0,0,10px;
 }
 
 a:hover {
