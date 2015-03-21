@@ -68,6 +68,6 @@ blockquote {
     float:right;
     max-height: 20%;
     max-width:50%;
-    position:bottom; 
+    position:absolute; 
     
 }
