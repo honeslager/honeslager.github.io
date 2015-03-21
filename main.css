@@ -20,7 +20,6 @@ nav {
 	float:left;
 	display: block;
 	width: 100%;
-	background:rgba(255,255,255,.95);
 	
 	
 }
@@ -32,6 +31,7 @@ nav {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size:1.5em;
 	font-weight:100;
+	color:#FFFFFF;
 	
 	
 }
