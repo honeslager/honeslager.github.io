@@ -44,14 +44,14 @@ nav {
 .logo {
 	display:block;
 	float:left;
-	height:3.5em;
-	width:3.5em;
+	height: 5em;
+	width: 5em;
 	clear:both;
-	margin; 20px;
-	padding: 20px;
+	margin; 10px;
+	padding: 10px;
 }
 
-a:hover{
+a:hover {
 	color:#CC0066;
 }
 a:visited {
