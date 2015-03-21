@@ -32,7 +32,7 @@ nav {
 .navigation {
 	text-decoration:none;
 	display: block;
-	float:left;
+	float:right;
 	padding: 30px;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size:2em;
