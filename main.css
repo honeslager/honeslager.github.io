@@ -14,7 +14,7 @@ h1 {
 	font-family: 'Lobster Two', cursive;
 	font-size: 2.5em;
 	color:#FFFFFF;
-	background-color: #CC0066;
+	background-color: #C82333;
 }
 
 nav {
@@ -56,7 +56,7 @@ div.logo{
 }
 
 a:hover {
-	color:#CC0066;
+	color:#C82333;
 }
 
 blockquote {
