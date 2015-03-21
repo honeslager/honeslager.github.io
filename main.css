@@ -29,7 +29,7 @@ nav {
 	
 	
 }
-a .navigation {
+.navigation {
 	text-decoration:none;
 	display: block;
 	padding: 60px;
@@ -39,7 +39,7 @@ a .navigation {
 	
 }
 
-img .logo {
+.logo {
 	height:2em;
 	width:2em;
 }
