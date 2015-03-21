@@ -37,12 +37,13 @@ nav {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size:2em;
 	font-weight:lighter;
-	background-color:#FFFFFF;
+	
 	
 }
 
 .logo {
-	display:inline;
+	display:block;
+	float:left;
 	height:8em;
 	width:8em;
 	clear:both;
