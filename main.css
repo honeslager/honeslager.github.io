@@ -44,9 +44,10 @@ nav {
 .logo {
 	display:block;
 	float:left;
-	height:12em;
-	width:12em;
+	height:8em;
+	width:8em;
 	clear:both;
+	padding:10,10,10,30;
 }
 
 a:hover{
