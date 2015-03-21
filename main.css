@@ -39,14 +39,16 @@ nav {
 .logo {
 	display:block;
 	float:left;
-	height: 6em;
-	width: 6em;
+	height: 5em;
+	width: 5em;
 	clear:both;
 }
 
 div.logo{
-	padding: 20px;
+	padding: 10px;
 	display:block;
+	float:left;
+	clear:both;
 }
 
 a:hover {
