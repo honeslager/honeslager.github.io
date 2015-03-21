@@ -33,7 +33,7 @@ nav {
 	text-decoration:none;
 	display: block;
 	float:right;
-	padding: 30px;
+	padding: 20px;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size:2em;
 	font-weight:lighter;
@@ -47,7 +47,7 @@ nav {
 	height:8em;
 	width:8em;
 	clear:both;
-	padding:10,10,10,30;
+	padding:10px,10px,10px,30px;
 }
 
 a:hover{
