@@ -44,7 +44,10 @@ nav {
 	height: 6em;
 	width: 6em;
 	clear:both;
-	padding: 10,10,10,10px;
+}
+
+div.logo{
+	padding: 20px;
 }
 
 a:hover {
