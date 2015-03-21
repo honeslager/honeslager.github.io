@@ -36,13 +36,12 @@ nav {
 }
 a .navigation {
 	text-decoration:none;
-	font-weight:100;
 	display: block;
 	padding: 60px;
 	
 }
 
 img .logo {
-	width: 20%;
+	size:200px;
 }
 
