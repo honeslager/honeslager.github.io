@@ -33,7 +33,7 @@ nav {
 	text-decoration:none;
 	display: block;
 	float:left;
-	padding: 60px;
+	padding: 30px;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size:2em;
 	font-weight:lighter;
@@ -41,6 +41,7 @@ nav {
 }
 
 .logo {
+	display:block;
 	height:6em;
 	width:6em;
 }
