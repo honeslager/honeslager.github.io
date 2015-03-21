@@ -33,7 +33,7 @@ nav {
 	text-decoration:none;
 	display: block;
 	float:right;
-	padding: 20px;
+	padding: 30px;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size:2em;
 	font-weight:lighter;
@@ -44,10 +44,10 @@ nav {
 .logo {
 	display:block;
 	float:left;
-	height:8em;
-	width:8em;
+	height:5em;
+	width:5em;
 	clear:both;
-	padding:10px,10px,10px,30px;
+	margin; 20px
 }
 
 a:hover{
