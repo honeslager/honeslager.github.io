@@ -32,7 +32,7 @@ nav {
 	float:right;
 	padding: 30px;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size:1em;
+	font-size:1.5em;
 	font-weight:100;
 	
 	
@@ -44,12 +44,9 @@ nav {
 	height: 6em;
 	width: 6em;
 	clear:both;
-	padding: 0,0,0,10px;
+	padding: 10,10,10,10px;
 }
 
 a:hover {
 	color:#CC0066;
-}
-a:visited {
-	color:#000000;
 }
