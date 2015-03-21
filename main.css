@@ -42,9 +42,9 @@ nav {
 }
 
 .logo {
-	display:block;
-	height:6em;
-	width:6em;
+	display:inline;
+	height:8em;
+	width:8em;
 	clear:both;
 	padding:30px;
 }
