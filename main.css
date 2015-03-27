@@ -1,8 +1,6 @@
-html { 
-	
-}
+* {box-sizing:border-box;}
 
-body {
+body#home {
 	background-image: url("Images/yogaslide.jpg");
 	background-repeat: no-repeat;
 	background-position: fixed; 
@@ -15,6 +13,10 @@ h1 {
 	font-size: 3em;
 	color:#FFFFFF;
 	background-color:#eb005e;
+	margin:400px 1em 0 0;
+	display:inline-block;
+	float:right;
+	padding:.5em 1em;
 }
 
 nav {
@@ -48,26 +50,6 @@ nav {
 	clear:both;
 }
 
-div.logo{
-	padding: 10px;
-	display:block;
-	float:left;
-	clear:both;
-}
-
 a:hover {
 	color:#eb005e;
-}
-
-blockquote {
-    display: block;
-    margin-top: 23em;
-    margin-bottom: 2em;
-    margin-left: 20px;
-    margin-right: 0px;
-    float:right;
-    max-height: 20%;
-    max-width:100%%;
-    position:bottom; 
-    
 }
