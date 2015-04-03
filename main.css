@@ -52,6 +52,7 @@ a.maindesktop {
 }
 
 @media only screen and (max-width: 768px)
+{
 
 body#home{
 	background-image: url("Images/yogaslide_tablet.jpg");
@@ -76,6 +77,7 @@ body#home{
  
  .mobile-nav {
  	background:white;
+ 	float:right;
  	
  }
  
@@ -108,15 +110,17 @@ a.mobilemenu {
 	display: block !important; 
 }
 
-nav.deskopt{
+nav.desktop{
 	display:hidden;
 }
+}
 
-@media only screen and (max-width: 320px)
+@media only screen and (max-width: 320px) {
 
 body#home{
 	background-image: url("Images/yogaslide_mobile.jpg");
 	background-repeat: no-repeat;
 	background-position: fixed; 
 	background-size: cover;
+}
 }
