@@ -103,15 +103,17 @@ nav {
  
 .responsive-menu{
 	display: none;
+
+}
+
+.mobilemenu {
 	text-decoration:none;
-	display: block;
-	float:right;
-	padding: 30px;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1.25em;
 	font-weight:100;
-	color:#FFFFFF;
+	color:#eb005e;
 	background:none;
+	
 }
  
 .expand {
