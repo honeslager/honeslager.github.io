@@ -44,8 +44,7 @@ a.maindesktop a:hover {
  	visibility:hidden;
  }
 
-@media only screen and (max-width: 768px)
-{
+@media only screen and (max-width: 768px) {
 
 body#home {
 	background-image: url("Images/yogaslide_tablet.jpg");
@@ -57,11 +56,11 @@ body#home {
 
 .menu-btn div {
 	position: absolute;
-	left: 10%;
+	left: 00%;
 	top: 64%;
 	padding-right: 8px;
 	margin-top: -0.50em;
-	line-height: 1.2;
+	line-height: 2;
 	font-size: 18px;
 	font-weight: 200;
 	vertical-align: middle;
@@ -69,7 +68,7 @@ body#home {
 }
  
  div.mobile-nav {
- 	background:white;
+ 	background:none;
  	float:right;
  	visibility:visible;
  	
@@ -77,10 +76,10 @@ body#home {
  
 .menu-btn span {
 	display: block;
-	width: 19px;
-	height: 3px;
+	width: 30px;
+	height: 5px;
 	margin: 4px 0;
-	background: rgb(0,0,0);
+	background:#eb005e;
 	z-index: 99;
 	color:#eb005e;
 }
@@ -97,7 +96,15 @@ a.mobilemenu {
 	font-weight:100;
 	color:#eb005e;
 	background:none;
-	
+}
+
+li {
+	text-decoration:none;
+	font-family: 'Quicksand', sans-serif;
+	font-size:1.25em;
+	font-weight:100;
+	color:#eb005e;
+	background:none;
 }
  
 .expand {
