@@ -52,8 +52,6 @@ nav {
 	font-weight:100;
 	color:#FFFFFF;
 	background:none;
-	
-	
 }
 
 .logo {
@@ -68,9 +66,7 @@ nav {
 	color:#eb005e;
 }
 
-
-
-
+@media only screen and (max-width: 768px)
 .menu-btn div {
 	position: absolute;
 	left: 100%;
@@ -83,9 +79,6 @@ nav {
 	vertical-align: middle;
 	z-index: 99;
 }
- nav {display:none;
- 	
- }
  
  .mobile-nav {
  	background:white;
@@ -119,3 +112,5 @@ nav {
 .expand {
 	display: block !important; 
 }
+
+@media only screen and (max-width: 320px)
