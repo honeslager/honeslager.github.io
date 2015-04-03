@@ -51,10 +51,14 @@ a.maindesktop {
 	color:#eb005e;
 }
 
+ div.mobile-nav {
+ 	visibility:hidden;
+ }
+
 @media only screen and (max-width: 768px)
 {
 
-body#home{
+body#home {
 	background-image: url("Images/yogaslide_tablet.jpg");
 	background-repeat: no-repeat;
 	background-position: fixed; 
@@ -75,7 +79,7 @@ body#home{
 	z-index: 99;
 }
  
- .mobile-nav {
+ div.mobile-nav {
  	background:white;
  	float:right;
  	
@@ -111,7 +115,7 @@ a.mobilemenu {
 }
 
 nav.desktop{
-	display:hidden;
+	visibility:hidden;
 }
 }
 
