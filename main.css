@@ -18,7 +18,7 @@ h1 {
 	padding:.5em 1em;
 }
 
-nav {
+nav.desktop {
 	float:left;
 	display: block;
 	width: 100%;
@@ -27,7 +27,7 @@ nav {
 	
 	
 }
-.maindesktop {
+a.maindesktop {
 	text-decoration:none;
 	display: block;
 	float:right;
