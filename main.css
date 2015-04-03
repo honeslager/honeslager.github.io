@@ -53,7 +53,7 @@ a.maindesktop {
 
 @media only screen and (max-width: 768px)
 
-body#tablet{
+body#home{
 	background-image: url("Images/yogaslide_tablet.jpg");
 	background-repeat: no-repeat;
 	background-position: fixed; 
@@ -63,7 +63,7 @@ body#tablet{
 
 .menu-btn div {
 	position: absolute;
-	left: 100%;
+	left: 10%;
 	top: 64%;
 	padding-right: 8px;
 	margin-top: -0.50em;
@@ -86,6 +86,7 @@ body#tablet{
 	margin: 4px 0;
 	background: rgb(0,0,0);
 	z-index: 99;
+	color:#eb005e;
 }
  
 .responsive-menu{
@@ -93,7 +94,7 @@ body#tablet{
 
 }
 
-.mobilemenu {
+a.mobilemenu {
 	text-decoration:none;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1.25em;
@@ -107,9 +108,13 @@ body#tablet{
 	display: block !important; 
 }
 
+nav.deskopt{
+	display:hidden;
+}
+
 @media only screen and (max-width: 320px)
 
-body#mobile{
+body#home{
 	background-image: url("Images/yogaslide_mobile.jpg");
 	background-repeat: no-repeat;
 	background-position: fixed; 
