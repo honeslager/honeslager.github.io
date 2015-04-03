@@ -24,10 +24,8 @@ nav.desktop {
 	width: 100%;
 	background:none;
 	font-family: 'Quicksand', sans-serif;
-	padding:0 2em;
+	}
 	
-	
-}
 a.maindesktop {
 	text-decoration:none;
 	display: block;
@@ -48,7 +46,7 @@ a.maindesktop {
 	clear:both;
 }
 
-.maindesktop a:hover {
+a.maindesktop a:hover {
 	color:#eb005e;
 }
 
