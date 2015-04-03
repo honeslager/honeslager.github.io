@@ -15,7 +15,7 @@ h1 {
 	margin:400px 1em 0 0;
 	display:inline-block;
 	float:right;
-	padding:.5em 1em;
+	padding:.5em 1em 1em 1em;
 }
 
 nav.desktop {
@@ -24,6 +24,7 @@ nav.desktop {
 	width: 100%;
 	background:none;
 	font-family: 'Quicksand', sans-serif;
+	padding:0 2em;
 	
 	
 }
