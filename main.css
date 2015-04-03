@@ -7,17 +7,6 @@ body#home {
 	background-size: cover;
 }
 
-h1 {
-	text-align:center;
-	font-family: 'Lobster Two', cursive;
-	font-size: 3em;
-	color:#FFFFFF;
-	margin:400px 1em 0 0;
-	display:inline-block;
-	float:right;
-	padding:.5em 1em 1em 1em;
-}
-
 nav.desktop {
 	float:left;
 	display: block;
