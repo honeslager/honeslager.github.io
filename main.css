@@ -82,6 +82,7 @@ body#home {
  div.mobile-nav {
  	background:white;
  	float:right;
+ 	visibility:visible;
  	
  }
  
