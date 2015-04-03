@@ -7,12 +7,26 @@ body#home {
 	background-size: cover;
 }
 
+body#tablet{
+	background-image: url("Images/yogaslide_tablet.jpg");
+	background-repeat: no-repeat;
+	background-position: fixed; 
+	background-size: cover;
+	
+}
+
+body#mobile{
+	background-image: url("Images/yogaslide_mobile.jpg");
+	background-repeat: no-repeat;
+	background-position: fixed; 
+	background-size: cover;
+}
+
 h1 {
 	text-align:center;
 	font-family: 'Lobster Two', cursive;
 	font-size: 3em;
 	color:#FFFFFF;
-	background-color:#eb005e;
 	margin:400px 1em 0 0;
 	display:inline-block;
 	float:right;
@@ -28,7 +42,7 @@ nav {
 	
 	
 }
-.navigation {
+.maindesktop {
 	text-decoration:none;
 	display: block;
 	float:right;
@@ -50,7 +64,7 @@ nav {
 	clear:both;
 }
 
-a:hover {
+.maindesktop a:hover {
 	color:#eb005e;
 }
 
@@ -75,6 +89,7 @@ a:hover {
  
  .mobile-nav {
  	background:white;
+ 	
  }
  
 .menu-btn span {
@@ -88,6 +103,15 @@ a:hover {
  
 .responsive-menu{
 	display: none;
+	text-decoration:none;
+	display: block;
+	float:right;
+	padding: 30px;
+	font-family: 'Quicksand', sans-serif;
+	font-size:1.25em;
+	font-weight:100;
+	color:#FFFFFF;
+	background:none;
 }
  
 .expand {
