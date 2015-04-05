@@ -76,6 +76,11 @@ h1{
 	font-size:2em;
 }
 
+div.classes{
+	width:30%;
+}
+
+
  div.mobile-nav {
  	visibility:hidden;
  }
