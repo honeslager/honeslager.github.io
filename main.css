@@ -28,6 +28,21 @@ a.maindesktop {
 	background:none;
 }
 
+a.regular {
+	text-decoration:none;
+	display: block;
+	float:right;
+	padding: 30px;
+	font-family: 'Quicksand', sans-serif;
+	font-size:1.25em;
+	font-weight:100;
+	color:#eb005e;
+	background:none;
+}
+
+a.regular a:hover {
+	color:#470047;
+}
 .logo {
 	display:block;
 	float:left;
