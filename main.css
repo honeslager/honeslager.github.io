@@ -64,8 +64,9 @@ div#aboutme{
 	float:center;
 }
 img#headshot{
-	size:50%;
-	display:block;
+	width:10em;
+	height:10em;
+	display:inline;
 }
 
  div.mobile-nav {
