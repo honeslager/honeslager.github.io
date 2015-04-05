@@ -43,7 +43,7 @@ a.regular {
 a.regular a:hover {
 	color:#470047;
 }
-.logo {
+img.logo {
 	display:block;
 	float:left;
 	height: 5em;
@@ -53,6 +53,19 @@ a.regular a:hover {
 
 a.maindesktop a:hover {
 	color:#eb005e;
+}
+
+div#aboutme{
+	font-family: 'Quicksand', sans-serif;
+	font-size:1.25em;
+	font-weight:100;
+	display:inline;
+	width:60%;
+	float:center;
+}
+img#headshot{
+	size:50%;
+	display:block;
 }
 
  div.mobile-nav {
