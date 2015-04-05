@@ -40,7 +40,7 @@ a.regular {
 	background:none;
 }
 
-a.regular a:hover {
+a.regular:hover {
 	color:#470047;
 }
 img.logo {
@@ -51,7 +51,7 @@ img.logo {
 	clear:both;
 }
 
-a.maindesktop a:hover {
+a.maindesktop:hover {
 	color:#eb005e;
 }
 
@@ -64,13 +64,16 @@ div#aboutme{
 	float:center;
 }
 img#headshot{
-	width:10em;
-	height:10em;
+	width:20em;
+	height:20em;
 	display:inline;
 }
 
 p {
 	display:inline;
+}
+h1{
+	font-size:2em;
 }
 
  div.mobile-nav {
