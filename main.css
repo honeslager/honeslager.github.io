@@ -57,7 +57,7 @@ a.maindesktop a:hover {
 
 div#aboutme{
 	font-family: 'Quicksand', sans-serif;
-	font-size:1.25em;
+	font-size:1em;
 	font-weight:100;
 	display:inline;
 	width:60%;
@@ -66,6 +66,10 @@ div#aboutme{
 img#headshot{
 	width:10em;
 	height:10em;
+	display:inline;
+}
+
+p {
 	display:inline;
 }
 
