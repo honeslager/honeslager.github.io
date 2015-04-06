@@ -79,7 +79,7 @@ div.aboutme3{
 img#headshot{
 	width:30%;
 	float:left;
-	display:inline;
+	display:block;
 }
 
 p {
