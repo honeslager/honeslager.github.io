@@ -59,15 +59,16 @@ div#aboutme{
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
-	width:60%;
+	width:70%;
 }
 img#headshot{
-	width:20em;
+	width:50%;
 	float:left;
 }
 
 p {
 }
+
 h1{
 	font-size:2em;
 	
