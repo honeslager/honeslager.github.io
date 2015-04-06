@@ -10,7 +10,6 @@ body#home {
 nav.desktop {
 	float:left;
 	display: block;
-	width: 100%;
 	background:none;
 	font-family: 'Quicksand', sans-serif;
 	padding:0px;
