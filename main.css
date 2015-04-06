@@ -62,13 +62,14 @@ div#aboutme{
 	width:90%;
 }
 img#headshot{
-	width:40%;
+	width:30%;
 	float:left;
 	display:inline;
 }
 
 h1#meetme{
-	width:60%;
+	width:100%;
+	display:inline;
 }
 
 p {
