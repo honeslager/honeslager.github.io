@@ -59,14 +59,11 @@ div#aboutme{
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
-	display:inline;
 	width:60%;
-	float:center;
 }
 img#headshot{
 	width:20em;
-	height:20em;
-	display:inline;
+	float:left;
 }
 
 p {
@@ -85,21 +82,10 @@ div.classes{
 }
 
 
- div.mobile-nav {
- 	visibility:hidden;
+.mobile-nav {
+ 	display:none;
  }
-
-@media only screen and (max-width: 768px) {
-
-body#home {
-	background-image: url("Images/yogaslide_tablet.jpg");
-	background-repeat: no-repeat;
-	background-position: fixed; 
-	background-size: cover;
-	
-}
-
-.menu-btn div {
+ .menu-btn div {
 	position: absolute;
 	left: 00%;
 	top: 64%;
@@ -131,7 +117,6 @@ body#home {
  
 .responsive-menu{
 	display: none;
-
 }
 
 a.mobilemenu {
@@ -155,9 +140,25 @@ li {
 .expand {
 	display: block !important; 
 }
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
+@media only screen and (max-width: 768px) {
 
+body#home {
+	background-image: url("Images/yogaslide_tablet.jpg");
+	background-repeat: no-repeat;
+	background-position: fixed; 
+	background-size: cover;
+	
+}
+.mobile-nav { display:block; }
 nav.desktop{
-	visibility:hidden;
+	display:none;
 }
 }
 
