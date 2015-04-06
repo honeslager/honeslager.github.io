@@ -165,11 +165,18 @@ li {
 
 @media only screen and (max-width: 1100px) {
 div.classes{
-	width:80%;
-	
+	width:85%;
+	}
 }
-@media only screen and (max-width: 768px) {
 
+@media only screen and (max-width: 810px) {
+.mobile-nav { display:block; }
+
+nav.desktop{ display:none;}
+}
+
+@media only screen and (max-width: 768px) {
+	
 body#home {
 	background-image: url("Images/yogaslide_tablet.jpg");
 	background-repeat: no-repeat;
@@ -177,10 +184,7 @@ body#home {
 	background-size: cover;
 	
 }
-.mobile-nav { display:block; }
-nav.desktop{
-	display:none;
-}
+
 }
 
 @media only screen and (max-width: 320px) {
@@ -190,8 +194,4 @@ body#home{
 	background-repeat: no-repeat;
 	background-position: fixed; 
 	background-size: cover;
-}
-
-div.classes{
-	width:60%;
 }
