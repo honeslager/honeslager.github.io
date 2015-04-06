@@ -62,8 +62,9 @@ div#aboutme{
 	width:70%;
 }
 img#headshot{
-	width:3em
+	width:20%;
 	float:left;
+	display:inline;
 }
 
 p {
