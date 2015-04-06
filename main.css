@@ -70,19 +70,18 @@ img#headshot{
 }
 
 p {
-	display:inline;
 }
 h1{
 	font-size:2em;
 }
 
 div.classes{
-	width:30%;
+	width:33.33%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
-	display:inline;
-	float:center
+	float:left;
+	padding:2em;
 }
 
 
