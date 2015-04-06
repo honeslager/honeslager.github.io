@@ -69,6 +69,19 @@ p {
 }
 h1{
 	font-size:2em;
+	
+}
+
+h1#grasshopper {
+	color:#00CC99
+}
+
+h1#zenmaster {
+	color:#3385AD;
+}
+
+h1#guru {
+	color:#7A52CC;
 }
 
 div.classes{
