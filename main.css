@@ -61,6 +61,15 @@ div#aboutme{
 	font-weight:100;
 	width:90%;
 }
+
+div.aboutme1{
+	width:45%;
+}
+
+div.aboutme2{
+	width:45%;
+}
+
 img#headshot{
 	width:30%;
 	float:left;
