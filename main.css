@@ -77,11 +77,16 @@ img#headshot{
 }
 
 h1#meetme{
+	font-family: 'Quicksand', sans-serif;
+	font-size:2em;
 	width:100%;
 	display:inline;
 }
 
 p {
+	font-family: 'Quicksand', sans-serif;
+	font-size:1em;
+	font-weight:100;
 }
 
 h1{
