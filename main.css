@@ -55,31 +55,24 @@ a.maindesktop:hover {
 	color:#eb005e;
 }
 
-div#aboutme{
-	font-family: 'Quicksand', sans-serif;
-	font-size:1em;
-	font-weight:100;
-	width:90%;
-}
-
 div.aboutme1{
-	width:45%;
+	width:40%;
+	display: block;
 }
 
 div.aboutme2{
-	width:45%;
+	width:40%;
+	display: block;
+}
+
+div.aboutme3{
+	width: 80%
+	display: block;
 }
 
 img#headshot{
 	width:30%;
 	float:left;
-	display:inline;
-}
-
-h1#meetme{
-	font-family: 'Quicksand', sans-serif;
-	font-size:2em;
-	width:100%;
 	display:inline;
 }
 
@@ -90,6 +83,7 @@ p {
 }
 
 h1{
+	font-family: 'Quicksand', sans-serif;
 	font-size:2em;
 	
 }
