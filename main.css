@@ -56,16 +56,22 @@ a.maindesktop:hover {
 }
 
 div.aboutme1{
+	float:left;
+	padding:1em;
 	width:40%;
 	display: block;
 }
 
 div.aboutme2{
+	float:left;
+	padding:1em;
 	width:40%;
 	display: block;
 }
 
 div.aboutme3{
+	float:left;
+	padding:1em;
 	width: 80%
 	display: block;
 }
