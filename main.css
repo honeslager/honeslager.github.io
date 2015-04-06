@@ -117,8 +117,6 @@ div.classes{
  	background:none;
  	float:right;
  	visibility:visible;
- 	width:80%;
- 	
  }
  
 .menu-btn span {
@@ -170,7 +168,7 @@ div.classes{
 	}
 }
 
-@media only screen and (max-width: 815px) {
+@media only screen and (max-width: 850px) {
 .mobile-nav { display:block; }
 
 nav.desktop{ display:none;}
