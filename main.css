@@ -100,7 +100,7 @@ h2{
 }
 
 h1#grasshopper {
-	color:#FF3399
+	color:#FF3399;
 }
 
 h1#zenmaster {
@@ -112,27 +112,27 @@ h1#guru {
 }
 
 h1#monday {
-	color:#CC00FF;
+	color:#FF3399;
 }
 h2#monday2 {
-	color:#CC00FF;
+	color:#FF3399;
 }
 h1#wednesday {
-	color:#9900CC;
+	color:#FF0066;
 }
 h2#wednesday2 {
-	color:#9900CC;
+	color:#FF0066;
 }
 
 h1#saturday {
-	color:#660066;
+	color:#CC0066;
 }
 h1#saturday2 {
-	color:#660066;
+	color:#CC0066;
 }
 
 div.classes{
-	width:30%;
+	width:33.33%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
@@ -143,7 +143,7 @@ div.classes{
 }
 
 div.schedule{
-	width:30%;
+	width:33.33%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
