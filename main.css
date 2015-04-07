@@ -112,14 +112,22 @@ h1#guru {
 }
 
 h1#monday {
-	color:##CC00FF;
+	color:#CC00FF;
 }
-
+h2#monday2 {
+	color:#CC00FF;
+}
 h1#wednesday {
-	color:##9900CC;
+	color:#9900CC;
+}
+h2#wednesday2 {
+	color:#9900CC;
 }
 
 h1#saturday {
+	color:#660066;
+}
+h1#saturday2 {
 	color:#660066;
 }
 
