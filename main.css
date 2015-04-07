@@ -55,26 +55,32 @@ a.maindesktop:hover {
 	color:#eb005e;
 }
 
-div.aboutme1{
+div#aboutme1{
 	float:left;
 	padding:1em;
 	width:35%;
 	display: block;
 }
 
-div.aboutme2{
+div#aboutme2{
 	float:left;
 	padding:1em;
 	width:35%;
 	display: block;
 }
 
-div.aboutme3{
+div#aboutme3{
 	float:left;
 	padding:1em;
 	width: 70%
 	display: block;
 }
+
+div#wrapper{
+	float:left;
+	width:90%;
+}
+
 
 img#headshot{
 	width:30%;
