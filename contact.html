@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Yoga Buddhi: Meet Me</title>
+	<title>Yoga Buddhi: Classes</title>
 	<link href="http://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet" type="text/css">
 	<link href="http://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="main.css">
@@ -14,10 +14,11 @@
 	<header>
 		<a href="index.html"><img src="Images/logo.png" alt="Yoga Buddhi" class="logo" border="0"></a>
 		<nav class="desktop">
-			<a href="classes.html" class="regular">CLASSES</a>
-			<a href="schedule.html" class="regular">SCHEDULE</a>
-			<a href="about.html" class="regular">MEET ME</a>
 			<a href="contact.html" class="regular">CONTACT</a>
+			<a href="about.html" class="regular">MEET ME</a>
+			<a href="schedule.html" class="regular">SCHEDULE</a>
+			<a href="classes.html" class="regular">CLASSES</a>
+			
 		</nav>
 		<div class="mobile-nav">
 		     <div class="menu-btn" id="menu-btn">
@@ -37,27 +38,49 @@
 		     </div>
 		</div>
 	</header>
-	
-	<div id="contactme">
-</div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">The easy to use <a href="http://www.wufoo.com/form-builder/">Wufoo form builder</a> helps you make forms easy, fast, and fun.</div>
-<script type="text/javascript">var z10urv7q0ejwasx;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'honeslager',
-'formHash':'z10urv7q0ejwasx',
-'autoResize':true,
-'height':'557',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z10urv7q0ejwasx = new WufooForm();z10urv7q0ejwasx.initialize(options);z10urv7q0ejwasx.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
-
-	
-	</body>
+	<div class="classes">
+		<h1 id="grasshopper">ONE TIME GRASSHOPPER</h1>
+		<p>Get ready to flow for your next get-to-together. This all-levels class is great for an office looking to 
+		de-stress from the cubicle life or a group who wants a fun way to bond.</p>
+		<p>You Will: provide the people, the space and sweat. Why not turn your conference room in to a blissed-out studio?
+		Everyone will need a mat, towel and water bottle.</p>
+		<p>I Will: bring the tunes, the bliss and the good yoga vibes. One week prior to your event I'll ask to send out a 
+		survey to your participants to gauge everyone's flow level. No experience is required!</p>
+		<p>The Details: $150 for a 60 minute session, up to 30 people. Add +$3 for every additional person.</p>
+	</div>
+		
+	<div class="classes"><h1 id="zenmaster">REGULAR ZENMASTER</h1>
+		<p></p>Practice makes progress in yoga. This weekly class will build on each previous session to take you and your group 
+		to new yoga heights (literally and figuratively).<br><br>
+		You Will: provide the people, the space and the sweat. A regular group is great but people are welcome to come go.  
+		Everyone will need a mat, towel and water bottle.<br><br>
+		I Will: bring the tunes, the bliss and the good yoga vibes. Each class will build on the previous to increase everyone's 
+		flexibility, strength and general zen. No experience is required!<br><br>
+		The Details: $65 for a 60 minute session (4 session minimum on a weekly or bi-weekly basis), up to 30 people. Add +$3 for 
+		every additional person.</p>
+	</div>
+		
+	<div class="classes"><h1 id="guru">PRIVATE GURU PRACTICER</h1>
+		<p></p>Studios can be intimidating. Private classes are a great way to deepen your practice or get your foot in the door (or on the mat) 
+		in a more personalized setting.<br><br>
+		You Will: provide me a list of goals for your yoga practice and bring a smile, a good attitude and an open mind to our classes. 
+		You'll need a mat, towel and water bottle.<br><br>
+		I Will: set up a short meeting to make sure we're a good student-teacher match. If we are, I'll structure a class tailored specifically 
+		to your needs and goals.<br><br>
+		The Details: private class pricing depends on several factors including time, commute and space rental if needed. Please contact me to 
+		discuss an exact class quote for your needs.</p>
+	</div>
+<script type="text/javascript">
+    	jQuery(function($){
+    	     $( '.menu-btn' ).click(function(){
+    	     $('.responsive-menu').toggleClass('expand')
+    	     })
+    	
+    	 $( '.close-btn' ).click(function(){
+    		$('.responsive-menu').removeClass('expand')
+    		$('.menu-btn').removeClass('btn-none')
+    	})
+  	})
+ </script>
+</body>
 </html>
