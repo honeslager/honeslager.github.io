@@ -71,7 +71,7 @@ div.aboutme{
 	font-size:1em;
 	font-weight:100;
 	float:left;
-	padding:2em;
+	padding:0em;
 	display:block;
 }
 
@@ -99,7 +99,7 @@ img#headshot{
 	width:500px;
 	float:left;
 	display:block;
-	padding:2em;
+	padding:.5em;
 }
 
 p {
