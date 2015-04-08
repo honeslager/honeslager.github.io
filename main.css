@@ -65,8 +65,18 @@ div.wrapper{
 	display:block;
 }
 
-div.aboutme{
-	width:50%;
+div.aboutmephoto{
+	width:40%;
+	font-family: 'Quicksand', sans-serif;
+	font-size:1em;
+	font-weight:100;
+	float:left;
+	padding:0em;
+	display:block;
+}
+
+div.aboutmetext{
+	width:60%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
