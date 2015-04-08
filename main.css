@@ -168,8 +168,17 @@ div.classes{
 	float:left;
 	padding:2em;
 	display:block;
+	}
 	
-}
+div.contact{
+	width:33.33%;
+	font-family: 'Quicksand', sans-serif;
+	font-size:1em;
+	font-weight:100;
+	float:left;
+	padding:2em;
+	display:block;
+	}
 
 div.schedule{
 	width:33.33%;
