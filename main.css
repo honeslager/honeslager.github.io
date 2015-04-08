@@ -83,7 +83,7 @@ div.aboutmephoto{
 	font-size:1em;
 	font-weight:100;
 	float:left;
-	padding:2em;
+	padding:.5em;
 	display:block;
 }
 
@@ -93,7 +93,6 @@ div.aboutmetext{
 	font-size:1em;
 	font-weight:100;
 	float:left;
-	padding:2em;
 	display:block;
 }
 
