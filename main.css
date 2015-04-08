@@ -266,32 +266,10 @@ nav.desktop{ display:none;}
 
 div.aboutmephoto{
 	width:100%;
-	font-family: 'Quicksand', sans-serif;
-	font-size:1em;
-	font-weight:100;
-	float:left;
-	padding:0em;
-	display:block;
 }
 
 div.aboutmetext{
 	width:100%;
-	font-family: 'Quicksand', sans-serif;
-	font-size:1em;
-	font-weight:100;
-	float:left;
-	padding:0em;
-	display:block;
-}
-
-div.aboutme2{
-	width:80%;
-	font-family: 'Quicksand', sans-serif;
-	font-size:1em;
-	font-weight:100;
-	float:left;
-	padding:30px;
-	display:block;
 }
 
 @media only screen and (max-width: 768px) {
