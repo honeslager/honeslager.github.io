@@ -114,6 +114,11 @@ div.aboutme3{
 	display:block;
 }
 
+img.certifications {
+	display:block;
+	float:left;
+}
+
 img#headshot{
 	width:80%;
 	display:block;
