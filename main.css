@@ -83,7 +83,7 @@ div.aboutmephoto{
 	font-size:1em;
 	font-weight:100;
 	float:left;
-	padding:0em;
+	padding:2em;
 	display:block;
 }
 
@@ -93,7 +93,7 @@ div.aboutmetext{
 	font-size:1em;
 	font-weight:100;
 	float:left;
-	padding:0em;
+	padding:2em;
 	display:block;
 }
 
@@ -103,7 +103,6 @@ div.aboutme2{
 	font-size:1em;
 	font-weight:100;
 	float:left;
-	padding:30px;
 	display:block;
 }
 
@@ -113,7 +112,6 @@ div.aboutme3{
 	font-size:1em;
 	font-weight:100;
 	float:left;
-	padding:30px;
 	display:block;
 }
 
