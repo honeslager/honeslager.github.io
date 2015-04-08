@@ -67,7 +67,7 @@ a.maindesktop:hover {
 	color:#eb005e;
 }
 
-div.wrapper{
+section.wrapper{
 	width:100%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
@@ -118,7 +118,7 @@ div.aboutme3{
 }
 
 img#headshot{
-	width:auto;
+	width:100%;
 	float:left;
 	display:block;
 	padding:0em;
