@@ -55,17 +55,6 @@ a.maindesktop:hover {
 	color:#eb005e;
 }
 
-div.aboutme1{
-	width:100%;
-	font-family: 'Quicksand', sans-serif;
-	font-size:1em;
-	font-weight:100;
-	float:left;
-	padding:2em;
-	display:block;
-	
-}
-
 div.wrapper{
 	width:100%;
 	font-family: 'Quicksand', sans-serif;
@@ -74,7 +63,6 @@ div.wrapper{
 	float:left;
 	padding:2em;
 	display:block;
-	
 }
 
 div.aboutme{
@@ -85,8 +73,18 @@ div.aboutme{
 	float:left;
 	padding:2em;
 	display:block;
-	
 }
+
+div.aboutme2{
+	width:100%;
+	font-family: 'Quicksand', sans-serif;
+	font-size:1em;
+	font-weight:100;
+	float:left;
+	padding:2em;
+	display:block;
+}
+
 div.aboutme3{
 	width:100%;
 	font-family: 'Quicksand', sans-serif;
@@ -95,7 +93,6 @@ div.aboutme3{
 	float:left;
 	padding:2em;
 	display:block;
-	
 }
 
 img#headshot{
