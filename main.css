@@ -98,7 +98,7 @@ div.aboutmetext{
 }
 
 div.aboutme2{
-	width:80%;
+	width:100%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
@@ -108,7 +108,7 @@ div.aboutme2{
 }
 
 div.aboutme3{
-	width:80%;
+	width:100%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
@@ -118,7 +118,7 @@ div.aboutme3{
 }
 
 img#headshot{
-	width:100%;
+	width:40%;
 	float:left;
 	display:block;
 	padding:0em;
