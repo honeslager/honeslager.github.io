@@ -56,7 +56,7 @@ a.maindesktop:hover {
 }
 
 div.aboutme1{
-	width:80%;
+	width:100%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
@@ -67,7 +67,7 @@ div.aboutme1{
 }
 
 div.wrapper{
-	width:80%;
+	width:100%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
@@ -88,7 +88,7 @@ div.aboutme{
 	
 }
 div.aboutme3{
-	width:80%;
+	width:100%;
 	font-family: 'Quicksand', sans-serif;
 	font-size:1em;
 	font-weight:100;
