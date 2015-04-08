@@ -50,6 +50,7 @@ a.email:hover {
 a.email {
 	text-decoration:none;
 	color:#eb005e;
+	font-weight:100;
 	background:none;
 }
 
