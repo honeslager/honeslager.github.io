@@ -43,6 +43,16 @@ a.regular {
 a.regular:hover {
 	color:#660066;
 }
+
+a.email:hover {
+	color:#660066;
+}
+a.email {
+	text-decoration:none;
+	color:#eb005e;
+	background:none;
+}
+
 img.logo {
 	display:block;
 	float:left;
