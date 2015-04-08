@@ -106,7 +106,7 @@ div.aboutme3{
 }
 
 img#headshot{
-	width:100%;
+	width:500px;
 	float:left;
 	display:block;
 	padding:0em;
@@ -269,6 +269,10 @@ div.aboutmephoto{
 }
 
 div.aboutmetext{
+	width:100%;
+}
+
+img#headshot{
 	width:100%;
 }
 
